@@ -1,6 +1,6 @@
 #!/bin/bash
 
- THEMES_DIR="$HOME//.termux"  
+ THEMES_DIR="$HOME/.termux"  
  TERMUX_COLORS="$HOME/.termux/colors.properties" 
  BACKUP_COLORS="$HOME/.termux/colors.properties.backup" 
 
